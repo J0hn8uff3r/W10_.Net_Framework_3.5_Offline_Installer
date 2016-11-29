@@ -8,3 +8,5 @@ http://www.uploadmagnet.com/q5u3shn8mfow/microsoft-windows-netfx3-ondemand-packa
 http://multimirrorupload.com/ribwx2l4y208/microsoft-windows-netfx3-ondemand-package.cab
 
 https://multiupload.biz/09vtie25gavr/microsoft-windows-netfx3-ondemand-package_MultiUpload.biz.cab.html
+
+Place it on the same path of the script and execute the script
