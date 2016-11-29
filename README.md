@@ -1,7 +1,7 @@
 # W10_.Net_Framework_3.5_Offline_Installer
 This script will help you to install .NET Framework 3.5 Service Pack 1 Offline and bypass Windows 10 installation errors
 
-You can download .Net Framework 3.5 Service Pack 1 .cab from: 
+You can download the necessary .Net Framework 3.5 Service Pack 1 .cab file from: 
 
 http://www.uploadmagnet.com/q5u3shn8mfow/microsoft-windows-netfx3-ondemand-package.cab
 
